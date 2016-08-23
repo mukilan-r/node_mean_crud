@@ -1,0 +1,19 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "A simple CRUD using node & express.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Mukil",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
